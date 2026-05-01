@@ -3,7 +3,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sairamguthula8&label=Profile%20views&color=0e75b6&style=flat" alt="sairamguthula8" /> </p>
 
-- 💬 Ask me about **Hi, I’m SaiRam Guthula, a DevOps Engineer who enjoys making software delivery faster and more reliable. I have experience in automating tasks, managing cloud systems, and helping teams release software smoothly and quickly. Focus on building CI/CD pipelines, automating deployments, and using cloud tools to create stable and scalable systems. I love turning manual work into automated processes using tools like Terraform, Docker, Kubernetes, Jenkins, and Ansible. My goal is to help companies save time and improve software quality through smart automation.**
+🚀 DevOps Engineer | Azure Certified | AWS | Kubernetes | Terraform
+
+## 🔧 Skills
+- CI/CD: Jenkins, GitHub Actions
+- Containers: Docker, Kubernetes (AKS/EKS)
+- Cloud: AWS, Azure
+- IaC: Terraform, Ansible
+- Monitoring: Prometheus, Grafana
+
+## 📂 Featured Projects
+- CI/CD Pipeline with Jenkins + Docker + Kubernetes
+- Terraform AWS Infrastructure Automation
+- Kubernetes Monitoring with Prometheus & Grafana
+
+## 📫 Contact Me
+- LinkedIn: https://www.linkedin.com/in/sairamguthula8
+- Email: sairamguthula8@gmail.com
 
 - 📫 How to reach me **sairamguthula8@gmail.com**
 
